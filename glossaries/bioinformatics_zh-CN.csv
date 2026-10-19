@@ -1,0 +1,607 @@
+source,target,tgt_lng
+bioinformatics,生物信息学,zh-CN
+computational biology,计算生物学,zh-CN
+high-throughput sequencing,高通量测序,zh-CN
+next-generation sequencing,下一代测序,zh-CN
+third-generation sequencing,第三代测序,zh-CN
+short-read sequencing,短读长测序,zh-CN
+long-read sequencing,长读长测序,zh-CN
+single-molecule sequencing,单分子测序,zh-CN
+paired-end sequencing,双端测序,zh-CN
+single-end sequencing,单端测序,zh-CN
+whole-genome sequencing,全基因组测序,zh-CN
+whole-exome sequencing,全外显子组测序,zh-CN
+targeted sequencing,靶向测序,zh-CN
+deep sequencing,深度测序,zh-CN
+sequencing depth,测序深度,zh-CN
+sequencing coverage,测序覆盖度,zh-CN
+read depth,读段深度,zh-CN
+sequencing read,测序读段,zh-CN
+sequencing reads,测序读段,zh-CN
+read length,读长,zh-CN
+read pair,读段对,zh-CN
+base calling,碱基识别,zh-CN
+base quality,碱基质量,zh-CN
+Phred score,Phred质量评分,zh-CN
+quality control,质量控制,zh-CN
+quality filtering,质量过滤,zh-CN
+adapter trimming,接头去除,zh-CN
+adapter contamination,接头污染,zh-CN
+PCR duplicates,PCR重复读段,zh-CN
+library preparation,文库制备,zh-CN
+library complexity,文库复杂度,zh-CN
+library size,文库大小,zh-CN
+strand-specific library,链特异性文库,zh-CN
+strandedness,链特异性,zh-CN
+ribosomal RNA depletion,核糖体RNA去除,zh-CN
+poly(A) selection,多聚腺苷酸富集,zh-CN
+reference genome,参考基因组,zh-CN
+reference transcriptome,参考转录组,zh-CN
+genome assembly,基因组组装,zh-CN
+de novo assembly,从头组装,zh-CN
+read alignment,读段比对,zh-CN
+read mapping,读段映射,zh-CN
+mapping rate,比对率,zh-CN
+uniquely mapped reads,唯一比对读段,zh-CN
+multimapping reads,多重比对读段,zh-CN
+splice-aware alignment,剪接感知比对,zh-CN
+pseudoalignment,伪比对,zh-CN
+transcript quantification,转录本定量,zh-CN
+gene quantification,基因定量,zh-CN
+gene annotation,基因注释,zh-CN
+gene symbol,基因符号,zh-CN
+gene identifier,基因标识符,zh-CN
+gene expression,基因表达,zh-CN
+gene expression profiling,基因表达谱分析,zh-CN
+expression matrix,表达矩阵,zh-CN
+count matrix,计数矩阵,zh-CN
+count matrices,计数矩阵,zh-CN
+raw counts,原始计数,zh-CN
+normalized counts,归一化计数,zh-CN
+read counts,读段计数,zh-CN
+transcript abundance,转录本丰度,zh-CN
+transcript isoform,转录本异构体,zh-CN
+transcript isoforms,转录本异构体,zh-CN
+alternative splicing,可变剪接,zh-CN
+differential splicing,差异剪接,zh-CN
+exon skipping,外显子跳跃,zh-CN
+intron retention,内含子保留,zh-CN
+splice junction,剪接连接位点,zh-CN
+splice site,剪接位点,zh-CN
+alternative polyadenylation,可变多聚腺苷酸化,zh-CN
+fusion transcript,融合转录本,zh-CN
+gene fusion,基因融合,zh-CN
+RNA editing,RNA编辑,zh-CN
+messenger RNA,信使RNA,zh-CN
+long non-coding RNA,长链非编码RNA,zh-CN
+long noncoding RNA,长链非编码RNA,zh-CN
+circular RNA,环状RNA,zh-CN
+microRNA,微小RNA,zh-CN
+ribosomal RNA,核糖体RNA,zh-CN
+transfer RNA,转运RNA,zh-CN
+nascent RNA,新生RNA,zh-CN
+RNA sequencing,RNA测序,zh-CN
+RNA-seq,RNA测序,zh-CN
+bulk RNA sequencing,群体RNA测序,zh-CN
+bulk RNA-seq,群体RNA测序,zh-CN
+bulk transcriptomics,群体转录组学,zh-CN
+transcriptome,转录组,zh-CN
+transcriptomics,转录组学,zh-CN
+transcripts per million,每百万转录本数,zh-CN
+counts per million,每百万计数,zh-CN
+variance stabilizing transformation,方差稳定化变换,zh-CN
+regularized logarithm transformation,正则化对数变换,zh-CN
+size factor,大小因子,zh-CN
+size factors,大小因子,zh-CN
+dispersion estimation,离散度估计,zh-CN
+lowly expressed genes,低表达基因,zh-CN
+differential expression analysis,差异表达分析,zh-CN
+differentially expressed gene,差异表达基因,zh-CN
+differentially expressed genes,差异表达基因,zh-CN
+differential transcript usage,差异转录本使用,zh-CN
+upregulated genes,上调基因,zh-CN
+downregulated genes,下调基因,zh-CN
+fold change,倍数变化,zh-CN
+log2 fold change,以2为底的对数倍数变化,zh-CN
+log fold change,对数倍数变化,zh-CN
+fold change shrinkage,倍数变化收缩,zh-CN
+independent filtering,独立过滤,zh-CN
+single-cell RNA sequencing,单细胞RNA测序,zh-CN
+single-cell RNA-seq,单细胞RNA测序,zh-CN
+single-cell transcriptomics,单细胞转录组学,zh-CN
+single-cell sequencing,单细胞测序,zh-CN
+single-cell analysis,单细胞分析,zh-CN
+single-cell atlas,单细胞图谱,zh-CN
+single-nucleus RNA sequencing,单核RNA测序,zh-CN
+single-nucleus RNA-seq,单核RNA测序,zh-CN
+single-nucleus sequencing,单核测序,zh-CN
+scRNA-seq,单细胞RNA测序,zh-CN
+snRNA-seq,单核RNA测序,zh-CN
+droplet-based sequencing,液滴式测序,zh-CN
+plate-based sequencing,孔板式测序,zh-CN
+combinatorial indexing,组合索引,zh-CN
+cell barcode,细胞条形码,zh-CN
+cell barcodes,细胞条形码,zh-CN
+sample barcode,样本条形码,zh-CN
+unique molecular identifier,唯一分子标识符,zh-CN
+unique molecular identifiers,唯一分子标识符,zh-CN
+UMI counts,UMI计数,zh-CN
+cell calling,细胞识别,zh-CN
+empty droplets,空液滴,zh-CN
+ambient RNA,环境RNA,zh-CN
+ambient RNA contamination,环境RNA污染,zh-CN
+background RNA,背景RNA,zh-CN
+doublet detection,双细胞检测,zh-CN
+doublet removal,双细胞去除,zh-CN
+doublets,双细胞,zh-CN
+singlets,单细胞,zh-CN
+multiplets,多细胞混合体,zh-CN
+homotypic doublets,同型双细胞,zh-CN
+heterotypic doublets,异型双细胞,zh-CN
+cell hashing,细胞哈希标记,zh-CN
+sample multiplexing,样本多重化,zh-CN
+demultiplexing,解复用,zh-CN
+donor demultiplexing,供者解复用,zh-CN
+mitochondrial gene percentage,线粒体基因表达占比,zh-CN
+mitochondrial content,线粒体转录本占比,zh-CN
+detected genes,检出基因,zh-CN
+genes per cell,每个细胞检出的基因数,zh-CN
+low-quality cells,低质量细胞,zh-CN
+cell viability,细胞活率,zh-CN
+dissociation-induced genes,解离诱导基因,zh-CN
+dissociation artifacts,解离伪影,zh-CN
+dropout events,掉零事件,zh-CN
+zero inflation,零膨胀,zh-CN
+sparse matrix,稀疏矩阵,zh-CN
+data sparsity,数据稀疏性,zh-CN
+highly variable genes,高变基因,zh-CN
+highly variable features,高变特征,zh-CN
+feature selection,特征选择,zh-CN
+variable feature selection,高变特征选择,zh-CN
+normalization,归一化,zh-CN
+log normalization,对数归一化,zh-CN
+scaling,标准化缩放,zh-CN
+data integration,数据整合,zh-CN
+dataset integration,数据集整合,zh-CN
+batch effect,批次效应,zh-CN
+batch effects,批次效应,zh-CN
+batch correction,批次校正,zh-CN
+batch effect correction,批次效应校正,zh-CN
+overcorrection,过度校正,zh-CN
+biological variation,生物学变异,zh-CN
+technical variation,技术变异,zh-CN
+batch mixing,批次混合,zh-CN
+integration anchors,整合锚点,zh-CN
+anchor-based integration,基于锚点的整合,zh-CN
+reciprocal PCA,互惠主成分分析,zh-CN
+canonical correlation analysis,典型相关分析,zh-CN
+mutual nearest neighbors,互近邻,zh-CN
+weighted nearest neighbors,加权最近邻,zh-CN
+reference mapping,参考映射,zh-CN
+query mapping,查询映射,zh-CN
+label transfer,标签转移,zh-CN
+reference atlas,参考图谱,zh-CN
+query dataset,查询数据集,zh-CN
+reference dataset,参考数据集,zh-CN
+latent space,潜在空间,zh-CN
+latent representation,潜在表示,zh-CN
+latent variable model,潜变量模型,zh-CN
+dimensionality reduction,降维,zh-CN
+dimension reduction,降维,zh-CN
+principal component analysis,主成分分析,zh-CN
+principal components,主成分,zh-CN
+explained variance,解释方差,zh-CN
+variance explained,方差解释率,zh-CN
+uniform manifold approximation and projection,统一流形逼近与投影,zh-CN
+t-distributed stochastic neighbor embedding,t分布随机近邻嵌入,zh-CN
+diffusion map,扩散映射,zh-CN
+diffusion maps,扩散映射,zh-CN
+non-negative matrix factorization,非负矩阵分解,zh-CN
+nonnegative matrix factorization,非负矩阵分解,zh-CN
+variational autoencoder,变分自编码器,zh-CN
+nearest-neighbor graph,近邻图,zh-CN
+shared nearest neighbor graph,共享近邻图,zh-CN
+k-nearest neighbors,k近邻,zh-CN
+graph-based clustering,基于图的聚类,zh-CN
+community detection,社区检测,zh-CN
+Leiden clustering,Leiden聚类,zh-CN
+Louvain clustering,Louvain聚类,zh-CN
+hierarchical clustering,层次聚类,zh-CN
+consensus clustering,共识聚类,zh-CN
+clustering resolution,聚类分辨率,zh-CN
+cluster stability,聚类稳定性,zh-CN
+resolution tree,分辨率树,zh-CN
+subclustering,亚群聚类,zh-CN
+cell cluster,细胞簇,zh-CN
+cell clusters,细胞簇,zh-CN
+cell annotation,细胞注释,zh-CN
+cell type annotation,细胞类型注释,zh-CN
+cell-type annotation,细胞类型注释,zh-CN
+automated annotation,自动注释,zh-CN
+manual annotation,人工注释,zh-CN
+marker gene,标记基因,zh-CN
+marker genes,标记基因,zh-CN
+canonical markers,经典标记基因,zh-CN
+lineage markers,谱系标记基因,zh-CN
+annotation confidence,注释置信度,zh-CN
+prediction score,预测评分,zh-CN
+unassigned cells,未分配标签的细胞,zh-CN
+unmatched cells,未匹配细胞,zh-CN
+cell identity,细胞身份,zh-CN
+cell state,细胞状态,zh-CN
+cell states,细胞状态,zh-CN
+cell type,细胞类型,zh-CN
+cell types,细胞类型,zh-CN
+cell subtype,细胞亚型,zh-CN
+cell subtypes,细胞亚型,zh-CN
+trajectory inference,轨迹推断,zh-CN
+pseudotime,拟时序,zh-CN
+pseudotime analysis,拟时序分析,zh-CN
+lineage tracing,谱系追踪,zh-CN
+lineage inference,谱系推断,zh-CN
+lineage commitment,谱系定向,zh-CN
+cell fate,细胞命运,zh-CN
+cell fate mapping,细胞命运示踪,zh-CN
+cell fate probability,细胞命运概率,zh-CN
+fate probability,命运概率,zh-CN
+branch point,分支点,zh-CN
+branching trajectory,分支轨迹,zh-CN
+root cell,起始细胞,zh-CN
+terminal state,终末状态,zh-CN
+RNA velocity,RNA速率,zh-CN
+spliced RNA,已剪接RNA,zh-CN
+unspliced RNA,未剪接RNA,zh-CN
+velocity field,速率场,zh-CN
+latent time,潜在时间,zh-CN
+dynamical model,动力学模型,zh-CN
+cellular plasticity,细胞可塑性,zh-CN
+phenotypic plasticity,表型可塑性,zh-CN
+transcriptional plasticity,转录可塑性,zh-CN
+cell-cell communication,细胞间通讯,zh-CN
+cell–cell communication,细胞间通讯,zh-CN
+cell-cell interaction,细胞间相互作用,zh-CN
+cell–cell interaction,细胞间相互作用,zh-CN
+ligand-receptor interaction,配体–受体相互作用,zh-CN
+ligand–receptor interaction,配体–受体相互作用,zh-CN
+ligand-receptor pair,配体–受体对,zh-CN
+ligand–receptor pair,配体–受体对,zh-CN
+ligand-target interaction,配体–靶基因相互作用,zh-CN
+signaling pathway,信号通路,zh-CN
+signalling pathway,信号通路,zh-CN
+signaling network,信号网络,zh-CN
+signalling network,信号网络,zh-CN
+communication probability,通讯概率,zh-CN
+interaction strength,相互作用强度,zh-CN
+pathway enrichment,通路富集,zh-CN
+functional enrichment,功能富集,zh-CN
+gene set enrichment analysis,基因集富集分析,zh-CN
+over-representation analysis,过度代表性分析,zh-CN
+gene ontology,基因本体,zh-CN
+gene set,基因集,zh-CN
+gene sets,基因集,zh-CN
+gene signature,基因特征集,zh-CN
+gene signatures,基因特征集,zh-CN
+expression signature,表达特征,zh-CN
+transcriptional signature,转录特征,zh-CN
+module score,模块评分,zh-CN
+gene module,基因模块,zh-CN
+gene modules,基因模块,zh-CN
+co-expression network,共表达网络,zh-CN
+coexpression network,共表达网络,zh-CN
+weighted gene co-expression network analysis,加权基因共表达网络分析,zh-CN
+gene regulatory network,基因调控网络,zh-CN
+transcription factor,转录因子,zh-CN
+transcription factors,转录因子,zh-CN
+regulon,调控子,zh-CN
+regulons,调控子,zh-CN
+regulon activity,调控子活性,zh-CN
+transcriptional program,转录程序,zh-CN
+transcriptional programs,转录程序,zh-CN
+metaprogram,元程序,zh-CN
+metaprograms,元程序,zh-CN
+hallmark gene sets,标志性基因集,zh-CN
+leading-edge genes,前沿基因,zh-CN
+enrichment score,富集评分,zh-CN
+normalized enrichment score,标准化富集评分,zh-CN
+pathway activity,通路活性,zh-CN
+multi-omics,多组学,zh-CN
+multiomics,多组学,zh-CN
+multimodal analysis,多模态分析,zh-CN
+multimodal integration,多模态整合,zh-CN
+multi-omics integration,多组学整合,zh-CN
+single-cell multi-omics,单细胞多组学,zh-CN
+paired multi-omics,配对多组学,zh-CN
+unpaired multi-omics,非配对多组学,zh-CN
+joint embedding,联合嵌入,zh-CN
+cross-modality mapping,跨模态映射,zh-CN
+spatial transcriptomics,空间转录组学,zh-CN
+spatial proteomics,空间蛋白质组学,zh-CN
+spatial multi-omics,空间多组学,zh-CN
+spatially resolved transcriptomics,空间分辨转录组学,zh-CN
+spatial domain,空间区域,zh-CN
+spatial domains,空间区域,zh-CN
+spatial niche,空间生态位,zh-CN
+spatial niches,空间生态位,zh-CN
+spatial neighborhood,空间邻域,zh-CN
+spatial neighbourhood,空间邻域,zh-CN
+spatially variable genes,空间变异基因,zh-CN
+spatial autocorrelation,空间自相关,zh-CN
+spatial co-localization,空间共定位,zh-CN
+spatial colocalization,空间共定位,zh-CN
+cellular neighborhood,细胞邻域,zh-CN
+tissue architecture,组织结构,zh-CN
+tissue section,组织切片,zh-CN
+histological annotation,组织学注释,zh-CN
+image registration,图像配准,zh-CN
+cell segmentation,细胞分割,zh-CN
+nuclear segmentation,细胞核分割,zh-CN
+transcript localization,转录本定位,zh-CN
+in situ sequencing,原位测序,zh-CN
+in situ hybridization,原位杂交,zh-CN
+multiplexed imaging,多重成像,zh-CN
+imaging mass cytometry,成像质谱流式技术,zh-CN
+spot deconvolution,捕获点解卷积,zh-CN
+cell type deconvolution,细胞类型解卷积,zh-CN
+cell-type deconvolution,细胞类型解卷积,zh-CN
+reference-based deconvolution,基于参考的解卷积,zh-CN
+cell abundance,细胞丰度,zh-CN
+cell composition,细胞组成,zh-CN
+cell type composition,细胞类型组成,zh-CN
+genomics,基因组学,zh-CN
+epigenomics,表观基因组学,zh-CN
+epigenetics,表观遗传学,zh-CN
+proteomics,蛋白质组学,zh-CN
+metabolomics,代谢组学,zh-CN
+lipidomics,脂质组学,zh-CN
+phosphoproteomics,磷酸化蛋白质组学,zh-CN
+glycomics,糖组学,zh-CN
+chromatin accessibility,染色质可及性,zh-CN
+open chromatin,开放染色质,zh-CN
+chromatin remodeling,染色质重塑,zh-CN
+chromatin remodelling,染色质重塑,zh-CN
+chromatin immunoprecipitation sequencing,染色质免疫沉淀测序,zh-CN
+ATAC-seq,转座酶可及染色质测序,zh-CN
+scATAC-seq,单细胞转座酶可及染色质测序,zh-CN
+ChIP-seq,染色质免疫沉淀测序,zh-CN
+peak calling,峰识别,zh-CN
+peak annotation,峰注释,zh-CN
+differentially accessible regions,差异可及区域,zh-CN
+differential accessibility,差异可及性,zh-CN
+differentially methylated regions,差异甲基化区域,zh-CN
+DNA methylation,DNA甲基化,zh-CN
+histone modification,组蛋白修饰,zh-CN
+histone modifications,组蛋白修饰,zh-CN
+nucleosome positioning,核小体定位,zh-CN
+nucleosome signal,核小体信号,zh-CN
+transcription start site,转录起始位点,zh-CN
+transcription end site,转录终止位点,zh-CN
+TSS enrichment,转录起始位点富集,zh-CN
+fraction of reads in peaks,峰内读段比例,zh-CN
+gene activity score,基因活性评分,zh-CN
+motif enrichment,基序富集,zh-CN
+motif analysis,基序分析,zh-CN
+transcription factor binding site,转录因子结合位点,zh-CN
+footprinting analysis,足迹分析,zh-CN
+peak-to-gene linkage,峰–基因关联,zh-CN
+cis-regulatory element,顺式调控元件,zh-CN
+cis-regulatory elements,顺式调控元件,zh-CN
+enhancer-promoter interaction,增强子–启动子相互作用,zh-CN
+super-enhancer,超级增强子,zh-CN
+enhancer,增强子,zh-CN
+promoter,启动子,zh-CN
+chromatin conformation,染色质构象,zh-CN
+topologically associating domain,拓扑关联结构域,zh-CN
+antibody-derived tags,抗体衍生标签,zh-CN
+surface protein expression,细胞表面蛋白表达,zh-CN
+mass spectrometry,质谱,zh-CN
+liquid chromatography-mass spectrometry,液相色谱–质谱联用,zh-CN
+peptide identification,肽段鉴定,zh-CN
+protein quantification,蛋白质定量,zh-CN
+post-translational modification,翻译后修饰,zh-CN
+metabolic pathway,代谢通路,zh-CN
+metabolic flux,代谢通量,zh-CN
+metabolic reprogramming,代谢重编程,zh-CN
+metabolite annotation,代谢物注释,zh-CN
+single-nucleotide variant,单核苷酸变异,zh-CN
+single nucleotide polymorphism,单核苷酸多态性,zh-CN
+copy number variation,拷贝数变异,zh-CN
+copy-number variation,拷贝数变异,zh-CN
+copy number alteration,拷贝数改变,zh-CN
+copy-number alteration,拷贝数改变,zh-CN
+copy number inference,拷贝数推断,zh-CN
+somatic mutation,体细胞突变,zh-CN
+germline mutation,生殖系突变,zh-CN
+structural variant,结构变异,zh-CN
+variant calling,变异检测,zh-CN
+variant annotation,变异注释,zh-CN
+variant allele frequency,变异等位基因频率,zh-CN
+allele-specific expression,等位基因特异性表达,zh-CN
+expression quantitative trait locus,表达数量性状位点,zh-CN
+expression quantitative trait loci,表达数量性状位点,zh-CN
+genome-wide association study,全基因组关联研究,zh-CN
+colocalization analysis,共定位分析,zh-CN
+fine mapping,精细定位,zh-CN
+linkage disequilibrium,连锁不平衡,zh-CN
+tumor mutational burden,肿瘤突变负荷,zh-CN
+tumour mutational burden,肿瘤突变负荷,zh-CN
+microsatellite instability,微卫星不稳定性,zh-CN
+clonal evolution,克隆演化,zh-CN
+intratumoral heterogeneity,肿瘤内异质性,zh-CN
+intertumoral heterogeneity,肿瘤间异质性,zh-CN
+immune repertoire,免疫组库,zh-CN
+T-cell receptor,T细胞受体,zh-CN
+B-cell receptor,B细胞受体,zh-CN
+T-cell receptor sequencing,T细胞受体测序,zh-CN
+B-cell receptor sequencing,B细胞受体测序,zh-CN
+V(D)J recombination,V(D)J重排,zh-CN
+clonotype,克隆型,zh-CN
+clonotypes,克隆型,zh-CN
+clonal expansion,克隆扩增,zh-CN
+clonal diversity,克隆多样性,zh-CN
+clonality,克隆性,zh-CN
+somatic hypermutation,体细胞高频突变,zh-CN
+class-switch recombination,类别转换重组,zh-CN
+complementarity-determining region,互补决定区,zh-CN
+biological replicate,生物学重复,zh-CN
+biological replicates,生物学重复,zh-CN
+technical replicate,技术重复,zh-CN
+technical replicates,技术重复,zh-CN
+pseudoreplication,伪重复,zh-CN
+pseudobulk,伪批量,zh-CN
+pseudo-bulk,伪批量,zh-CN
+pseudobulk analysis,伪批量分析,zh-CN
+pseudobulk differential expression,伪批量差异表达分析,zh-CN
+donor-level analysis,供者水平分析,zh-CN
+patient-level analysis,患者水平分析,zh-CN
+sample-level analysis,样本水平分析,zh-CN
+paired analysis,配对分析,zh-CN
+paired samples,配对样本,zh-CN
+matched samples,匹配样本,zh-CN
+covariate,协变量,zh-CN
+covariates,协变量,zh-CN
+confounder,混杂因素,zh-CN
+confounders,混杂因素,zh-CN
+confounding,混杂,zh-CN
+design matrix,设计矩阵,zh-CN
+contrast matrix,对比矩阵,zh-CN
+effect size,效应量,zh-CN
+confidence interval,置信区间,zh-CN
+credible interval,可信区间,zh-CN
+standard error,标准误,zh-CN
+standard deviation,标准差,zh-CN
+multiple testing correction,多重检验校正,zh-CN
+multiple hypothesis testing,多重假设检验,zh-CN
+false discovery rate,假发现率,zh-CN
+adjusted p-value,校正后P值,zh-CN
+adjusted P value,校正后P值,zh-CN
+q-value,q值,zh-CN
+statistical power,统计功效,zh-CN
+statistical significance,统计学显著性,zh-CN
+biological significance,生物学意义,zh-CN
+negative binomial distribution,负二项分布,zh-CN
+generalized linear model,广义线性模型,zh-CN
+generalized linear mixed model,广义线性混合模型,zh-CN
+linear mixed model,线性混合模型,zh-CN
+random effect,随机效应,zh-CN
+fixed effect,固定效应,zh-CN
+Wilcoxon rank-sum test,Wilcoxon秩和检验,zh-CN
+Wilcoxon signed-rank test,Wilcoxon符号秩检验,zh-CN
+likelihood ratio test,似然比检验,zh-CN
+Wald test,Wald检验,zh-CN
+permutation test,置换检验,zh-CN
+bootstrap resampling,自助重采样,zh-CN
+sensitivity analysis,敏感性分析,zh-CN
+robustness analysis,稳健性分析,zh-CN
+differential abundance,差异丰度,zh-CN
+differential abundance analysis,差异丰度分析,zh-CN
+compositional data,组成数据,zh-CN
+compositional analysis,组成分析,zh-CN
+compositional bias,组成偏倚,zh-CN
+cross-validation,交叉验证,zh-CN
+leave-one-donor-out cross-validation,留一供者交叉验证,zh-CN
+leave-one-out cross-validation,留一交叉验证,zh-CN
+held-out donor,留出供者,zh-CN
+held-out test set,留出测试集,zh-CN
+external validation,外部验证,zh-CN
+independent validation,独立验证,zh-CN
+training set,训练集,zh-CN
+validation set,验证集,zh-CN
+test set,测试集,zh-CN
+data leakage,数据泄漏,zh-CN
+overfitting,过拟合,zh-CN
+underfitting,欠拟合,zh-CN
+hyperparameter tuning,超参数调优,zh-CN
+confusion matrix,混淆矩阵,zh-CN
+classification accuracy,分类准确率,zh-CN
+precision,精确率,zh-CN
+recall,召回率,zh-CN
+F1 score,F1评分,zh-CN
+balanced accuracy,平衡准确率,zh-CN
+receiver operating characteristic curve,受试者工作特征曲线,zh-CN
+precision-recall curve,精确率–召回率曲线,zh-CN
+silhouette score,轮廓系数,zh-CN
+adjusted Rand index,调整兰德指数,zh-CN
+normalized mutual information,归一化互信息,zh-CN
+benchmarking,基准评估,zh-CN
+ground truth labels,真实标签,zh-CN
+reproducibility,可重复性,zh-CN
+random seed,随机种子,zh-CN
+tumor microenvironment,肿瘤微环境,zh-CN
+tumour microenvironment,肿瘤微环境,zh-CN
+tumor ecosystem,肿瘤生态系统,zh-CN
+tumour ecosystem,肿瘤生态系统,zh-CN
+bone metastasis,骨转移,zh-CN
+bone metastases,骨转移,zh-CN
+primary tumor,原发肿瘤,zh-CN
+primary tumour,原发肿瘤,zh-CN
+metastatic niche,转移生态位,zh-CN
+pre-metastatic niche,转移前生态位,zh-CN
+bone marrow niche,骨髓生态位,zh-CN
+bone marrow stroma,骨髓间质,zh-CN
+stromal cells,间质细胞,zh-CN
+mesenchymal stromal cells,间充质基质细胞,zh-CN
+mesenchymal stem cells,间充质干细胞,zh-CN
+bone marrow mesenchymal stromal cells,骨髓间充质基质细胞,zh-CN
+bone marrow mesenchymal stem cells,骨髓间充质干细胞,zh-CN
+cancer-associated fibroblasts,癌症相关成纤维细胞,zh-CN
+cancer-associated fibroblast,癌症相关成纤维细胞,zh-CN
+inflammatory fibroblasts,炎症型成纤维细胞,zh-CN
+myofibroblastic fibroblasts,肌成纤维细胞样成纤维细胞,zh-CN
+antigen-presenting fibroblasts,抗原呈递型成纤维细胞,zh-CN
+fibroblast activation,成纤维细胞活化,zh-CN
+fibroblasts,成纤维细胞,zh-CN
+myofibroblasts,肌成纤维细胞,zh-CN
+pericytes,周细胞,zh-CN
+endothelial cells,内皮细胞,zh-CN
+epithelial cells,上皮细胞,zh-CN
+malignant cells,恶性细胞,zh-CN
+non-malignant cells,非恶性细胞,zh-CN
+osteoblasts,成骨细胞,zh-CN
+osteoclasts,破骨细胞,zh-CN
+osteocytes,骨细胞,zh-CN
+chondrocytes,软骨细胞,zh-CN
+adipocytes,脂肪细胞,zh-CN
+hematopoietic stem cells,造血干细胞,zh-CN
+hematopoietic stem and progenitor cells,造血干祖细胞,zh-CN
+hematopoiesis,造血,zh-CN
+osteogenesis,成骨,zh-CN
+adipogenesis,成脂,zh-CN
+chondrogenesis,成软骨,zh-CN
+bone remodeling,骨重塑,zh-CN
+bone remodelling,骨重塑,zh-CN
+extracellular matrix,细胞外基质,zh-CN
+matrix remodeling,基质重塑,zh-CN
+matrix remodelling,基质重塑,zh-CN
+epithelial-mesenchymal transition,上皮–间质转化,zh-CN
+epithelial-to-mesenchymal transition,上皮–间质转化,zh-CN
+mesenchymal-epithelial transition,间质–上皮转化,zh-CN
+angiogenesis,血管生成,zh-CN
+hypoxia,缺氧,zh-CN
+cellular senescence,细胞衰老,zh-CN
+cell cycle,细胞周期,zh-CN
+cell proliferation,细胞增殖,zh-CN
+apoptosis,细胞凋亡,zh-CN
+immune evasion,免疫逃逸,zh-CN
+immune exclusion,免疫排斥,zh-CN
+immune suppression,免疫抑制,zh-CN
+immunosuppression,免疫抑制,zh-CN
+T-cell exhaustion,T细胞耗竭,zh-CN
+T cell exhaustion,T细胞耗竭,zh-CN
+regulatory T cells,调节性T细胞,zh-CN
+cytotoxic T cells,细胞毒性T细胞,zh-CN
+natural killer cells,自然杀伤细胞,zh-CN
+dendritic cells,树突状细胞,zh-CN
+macrophages,巨噬细胞,zh-CN
+monocytes,单核细胞,zh-CN
+neutrophils,中性粒细胞,zh-CN
+mast cells,肥大细胞,zh-CN
+plasma cells,浆细胞,zh-CN
+antigen presentation,抗原呈递,zh-CN
+immune checkpoint,免疫检查点,zh-CN
+immune checkpoint blockade,免疫检查点阻断,zh-CN
+tissue-resident cells,组织驻留细胞,zh-CN
+tissue-resident macrophages,组织驻留巨噬细胞,zh-CN
+stemness,干性,zh-CN
+cell differentiation,细胞分化,zh-CN
+dedifferentiation,去分化,zh-CN
+transdifferentiation,转分化,zh-CN
